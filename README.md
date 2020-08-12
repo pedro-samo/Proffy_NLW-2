@@ -61,6 +61,13 @@ $ yarn install
 $ yarn start
 ```
 
+💻 Run Web
+```
+$ cd /web
+$ yarn install
+$ yarn start
+```
+
 ## License
 
 Made by Pedro Santos Morais 👽 . This project is under the MIT license.
