@@ -54,14 +54,14 @@ $ yarn start
 ```
 http://localhost:3333/
 
-📱 Run Mobile
+### 📱 Run Mobile
 ```
 $ cd /mobile
 $ yarn install
 $ yarn start
 ```
 
-💻 Run Web
+### 💻 Run Web
 ```
 $ cd /web
 $ yarn install
