@@ -31,3 +31,36 @@ __________
 ## Landing Page .tsx
 
 ![Landing Page](https://github.com/pedro-samo/Proffy_NLW-2/blob/master/git_readme/landing_page.png)
+
+## Give Classes | Teacher List .tsx
+
+![Landing Page](https://github.com/pedro-samo/Proffy_NLW-2/blob/master/git_readme/body_screen.gif)
+
+
+## Run the project on your computer
+
+Clone the repository on your Git Bash: 
+
+```
+$ git clone https://github.com/pedro-samo/Proffy_NLW-2
+```
+
+### 📦 Run API
+
+```
+$ cd /server
+$ yarn install
+$ yarn start
+```
+http://localhost:3333/
+
+📱 Run Mobile
+```
+$ cd /mobile
+$ yarn install
+$ yarn start
+```
+
+## License
+
+Made by Pedro Santos Morais 👽 . This project is under the MIT license.
